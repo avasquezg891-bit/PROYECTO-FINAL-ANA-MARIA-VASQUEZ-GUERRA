@@ -64,9 +64,10 @@
         <h3><strong>DOCENTE:</strong></h3>
         <p>Dr. JOSE ARTURO DIAZ</p>
 
-        <a href="menu.html">
+        <a href="principal.html">
             <button>INICIAR EXPOSICIÓN</button>
         </a>
     </div>
 </body>
 </html>
+
